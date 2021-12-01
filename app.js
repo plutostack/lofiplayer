@@ -38,8 +38,8 @@ const songList = [
         cover: "ibrahim.png"
     },
     {
-        name: "Slow Day",
-        source: "Slow Day.mp3",
+        name: "Tusken. - Winterrain",
+        source: "https://github.com/ars-lang/lofiplayer/raw/main/y2mate.com%20-%20tusken%20%20winterrain.mp3",
         cover: "chillhop-4.jpg"
     },
     {
