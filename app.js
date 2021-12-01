@@ -40,7 +40,7 @@ const songList = [
     {
         name: "Tusken. - Winterrain",
         source: "https://github.com/ars-lang/lofiplayer/raw/main/y2mate.com%20-%20tusken%20%20winterrain.mp3",
-        cover: "chillhop-4.jpg"
+        cover: "tuskenwinterrain.png"
     },
     {
         name: "Carti Mangolia",
